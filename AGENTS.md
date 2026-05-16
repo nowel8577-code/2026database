@@ -21,8 +21,8 @@ Current Firestore rule policy:
 
 ## Obsidian
 
-Obsidian vault: not configured yet
-Project note path: not configured yet
+Obsidian vault: G:\我的雲端硬碟\2ndbrain
+Project note path: 2026database\專案駕駛艙.md
 
 When Obsidian is configured, keep the project note as the single running project log and link it from this file.
 
